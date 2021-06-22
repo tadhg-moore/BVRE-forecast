@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+forecasted_drivers
+data_raw
+forecast_output
+flare_tempdir
